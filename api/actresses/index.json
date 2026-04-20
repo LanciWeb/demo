@@ -4,7 +4,7 @@
     "name": "Meryl Streep",
     "birth_year": 1949,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "The Devil Wears Prada",
       "Sophie's Choice",
       "Kramer vs. Kramer"
@@ -19,7 +19,7 @@
     "birth_year": 1907,
     "death_year": 2003,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "The African Queen",
       "Bringing Up Baby",
       "On Golden Pond"
@@ -34,7 +34,7 @@
     "birth_year": 1929,
     "death_year": 1993,
     "nationality": "British",
-    "most_famous_movies": [
+    "known_for": [
       "Breakfast at Tiffany's",
       "Roman Holiday",
       "My Fair Lady"
@@ -48,7 +48,7 @@
     "name": "Cate Blanchett",
     "birth_year": 1969,
     "nationality": "Australian",
-    "most_famous_movies": [
+    "known_for": [
       "Blue Jasmine",
       "The Aviator",
       "Carol"
@@ -63,7 +63,7 @@
     "birth_year": 1922,
     "death_year": 1969,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "The Wizard of Oz",
       "A Star Is Born",
       "Meet Me in St. Louis"
@@ -78,7 +78,7 @@
     "birth_year": 1926,
     "death_year": 1962,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Some Like It Hot",
       "Gentlemen Prefer Blondes",
       "The Seven Year Itch"
@@ -92,7 +92,7 @@
     "name": "Maggie Smith",
     "birth_year": 1934,
     "nationality": "British",
-    "most_famous_movies": [
+    "known_for": [
       "The Prime of Miss Jean Brodie",
       "Harry Potter Series",
       "Downton Abbey"
@@ -106,7 +106,7 @@
     "name": "Jodie Foster",
     "birth_year": 1962,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "The Silence of the Lambs",
       "Taxi Driver",
       "The Accused"
@@ -120,7 +120,7 @@
     "name": "Natalie Portman",
     "birth_year": 1981,
     "nationality": "Israeli-American",
-    "most_famous_movies": [
+    "known_for": [
       "Black Swan",
       "V for Vendetta",
       "Leon: The Professional"
@@ -134,7 +134,7 @@
     "name": "Julia Roberts",
     "birth_year": 1967,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Pretty Woman",
       "Erin Brockovich",
       "Notting Hill"
@@ -148,7 +148,7 @@
     "name": "Angelina Jolie",
     "birth_year": 1975,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Maleficent",
       "Lara Croft: Tomb Raider",
       "Changeling"
@@ -162,7 +162,7 @@
     "name": "Charlize Theron",
     "birth_year": 1975,
     "nationality": "South African",
-    "most_famous_movies": [
+    "known_for": [
       "Monster",
       "Mad Max: Fury Road",
       "The Devil's Advocate"
@@ -176,7 +176,7 @@
     "name": "Emma Watson",
     "birth_year": 1990,
     "nationality": "British",
-    "most_famous_movies": [
+    "known_for": [
       "Harry Potter series",
       "Beauty and the Beast",
       "Little Women"
@@ -190,7 +190,7 @@
     "name": "Margot Robbie",
     "birth_year": 1990,
     "nationality": "Australian",
-    "most_famous_movies": [
+    "known_for": [
       "The Wolf of Wall Street",
       "Suicide Squad",
       "I, Tonya"
@@ -204,7 +204,7 @@
     "name": "Julianne Moore",
     "birth_year": 1960,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Still Alice",
       "Boogie Nights",
       "The Hours"
@@ -218,7 +218,7 @@
     "name": "Helen Mirren",
     "birth_year": 1945,
     "nationality": "British",
-    "most_famous_movies": [
+    "known_for": [
       "The Queen",
       "Prime Suspect",
       "Hitchcock"
@@ -232,7 +232,7 @@
     "name": "Viola Davis",
     "birth_year": 1965,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Fences",
       "The Help",
       "Doubt"
@@ -247,7 +247,7 @@
     "birth_year": 1938,
     "death_year": 1981,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "West Side Story",
       "Rebel Without a Cause",
       "Splendor in the Grass"
@@ -261,7 +261,7 @@
     "name": "Emilia Clarke",
     "birth_year": 1986,
     "nationality": "British",
-    "most_famous_movies": [
+    "known_for": [
       "Game of Thrones",
       "Me Before You",
       "Terminator Genisys"
@@ -275,7 +275,7 @@
     "name": "Catherine Deneuve",
     "birth_year": 1943,
     "nationality": "French",
-    "most_famous_movies": [
+    "known_for": [
       "Belle de Jour",
       "The Umbrellas of Cherbourg",
       "Indochine"
@@ -289,7 +289,7 @@
     "name": "Scarlett Johansson",
     "birth_year": 1984,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "Lost in Translation",
       "The Avengers",
       "Marriage Story"
@@ -303,7 +303,7 @@
     "name": "Emma Stone",
     "birth_year": 1988,
     "nationality": "American",
-    "most_famous_movies": [
+    "known_for": [
       "La La Land",
       "The Help",
       "Birdman"
